@@ -2,31 +2,27 @@
 ## 📄 About
 
 <p align='justify'>
-
+Exanthem-Detection-ML is a machine learning project designed for the clinical classification of exanthematous diseases using medical data. This repository includes optimized classification models trained on dermatological and clinical datasets to assist in diagnosing and differentiating various exanthems.Additionally, it offers API integration for real-world applications in clinical settings. The goal of this project is to enhance diagnostic accuracy and efficiency, providing healthcare professionals with an AI-powered tool to support clinical decision-making. Contributions from developers, researchers, and medical professionals are welcome to improve the models, expand the dataset, and refine the system for better real-world performance.
 </p>
+<br>
 
-<!-- ### 💻 Principal Interface
- -->
-<p align='center' width=800px>
+## ✅ Main Features
 
-</p>
+- Preprocessed medical datasets for training and evaluation
+- Multiple ML models optimized for clinical classification
+- Explainable AI techniques for model interpretability
+- Jupyter notebooks for training, evaluation, and visualization
+- API integration for real-world applications
+<br>
 
 ## 🔧 Software/Hardware Requierments
-<div align="center">
-
-</div>
-
+<br>
 
 
 ## ⚙️ Instalation/Configuration Process
 
 - Download files from repository
-  - Download directly 'public html' folder 
-  
-  - Or you can also clone the repository by the following command:
+  - you can also clone the repository by the following command:
 ````
 gh repo clone saulTejeda117/Exanthem-Detection-ML
 ````
-- Extract all files and excute "index.html" on your local server
-
-<!-- - **This project is already connected to a Firebase WEB application** -->
